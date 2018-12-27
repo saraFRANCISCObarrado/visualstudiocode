@@ -20,7 +20,7 @@ $contraseña="admin";
                 <br/>
                 Usuario&nbsp&nbsp&nbsp <input type="text" name="name" value="<?php echo $nombre?>"  >
                 <br>
-                Password <input type="text" name="pass" value="<?php echo $contraseña?>"  >
+                Password/contraseña <input type="text" name="pass" value="<?php echo $contraseña?>"  >
                 <br/>
                 <br/>
                 <!-- MAX_FILE_SIZE debe preceder al campo de entrada del fichero -->
