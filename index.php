@@ -18,7 +18,7 @@ $contraseña="admin";
             <legend style="background:pink ">Subida de ficheros SARA SARA SARA</legend>
             <form action="descarga.php" method="POST" enctype="multipart/form-data">
                 <br/>
-                Usuario&nbsp&nbsp&nbsp <input type="text" name="name" value="<?php echo $nombre?>"  >
+                Usuario/nombre&nbsp&nbsp&nbsp <input type="text" name="name" value="<?php echo $nombre?>"  >
                 <br>
                 Password/contraseña <input type="text" name="pass" value="<?php echo $contraseña?>"  >
                 <br/>
