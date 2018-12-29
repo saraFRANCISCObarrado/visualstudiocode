@@ -1,4 +1,7 @@
-<?php
+
+
+//otro cambio
+    <?php
 //función que pone los acentos donde corresponde en las palabras música e imágenes
 //que son los directorios donde se guardaran audios e imágenes 
 function acentos($palabra){
