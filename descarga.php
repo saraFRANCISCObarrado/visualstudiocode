@@ -1,5 +1,5 @@
+//MODIFICACIONES DESDE GITHUB
 <?php
-
 
 function escribir_archivolog($cadena,$tipo)
 {
