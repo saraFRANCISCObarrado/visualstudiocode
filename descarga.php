@@ -1,4 +1,7 @@
 //MODIFICACIONES DESDE GITHUB
+//MODIFICANDO DESDE VISUAL STUDIO CODE
+// nuevo cambio
+
 <?php
 
 function escribir_archivolog($cadena,$tipo)
