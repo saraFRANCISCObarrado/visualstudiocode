@@ -1,5 +1,6 @@
 //modificacion desde visual studio
 //NUEVO CAMBIO
+//cambio para verlo en visual studio code hecho desde github y descargado a local!!!
     <?php
 //función que pone los acentos donde corresponde en las palabras música e imágenes
 //que son los directorios donde se guardaran audios e imágenes 
